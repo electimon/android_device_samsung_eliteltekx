@@ -1,1 +1,1 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_nobleltetmo.mk
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_eliteltekx.mk
